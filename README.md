@@ -1,5 +1,4 @@
 
-### About Me
 A passionate developer in cloud, infrastructure, and container technologies, specializes in AI/ML platform engineering.
 
 
