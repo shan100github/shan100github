@@ -1,5 +1,5 @@
 
-<h4 >A passionate developer in cloud, infrastructure, and container technologies, specializes in AI/ML platform engineering. </h4>
+<h4 >Make the world a better place! 🌎 <br> A passionate developer in cloud, infrastructure, and container technologies, specializes in AI/ML platform engineering. </h4>
 
 
 ### 🏆 GitHub Trophies
